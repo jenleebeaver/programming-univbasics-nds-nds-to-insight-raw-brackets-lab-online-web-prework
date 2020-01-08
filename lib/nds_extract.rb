@@ -17,8 +17,6 @@ def directors_totals(nds)
     end
       index += 1
   end
-
-  #[:movies][:worldwide_gross]
   return result
 end
   # Remember, it's always OK to pretty print what you get *in* to make sure
